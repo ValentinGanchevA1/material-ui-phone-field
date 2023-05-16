@@ -43,7 +43,7 @@ export default class CountryData {
 		);
 
 		const result = initCountries(
-			rawCountries,
+rawCountries,
 			enableAreaCodes,
 			prefix,
 			defaultMask,
